@@ -1,5 +1,5 @@
 - dashboard: lokesh_dashboard
-  title: Lokesh Dashboard
+  title: Lokesh
   layout: newspaper
   elements:
   - title: Untitled
